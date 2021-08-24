@@ -31,7 +31,7 @@
       },
       "DOWNLOAD_STATUS_UPDATE_INTERVAL": {
         "description": "A short interval of time in seconds after which the Mirror progress message is updated. (I recommend to keep it 5 seconds at least).",
-        "value": "5",
+        "value": "4",
         "required":false
       },
       "OWNER_ID": {
